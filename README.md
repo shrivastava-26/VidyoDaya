@@ -1,7 +1,7 @@
 # VidyoDaya
 **An Online Education Platform for You**
 
-Check out the live demo: [VidyoDaya](https://VidyoDaya-frontend.vercel.app/)
+Check out the live demo: [VidyoDaya](https://vidyodayam.vercel.app/)
 
 ![image](https://github.com/user-attachments/assets/f56132ea-9644-46f1-a11f-2263dc4f319e)
 
