@@ -1,5 +1,5 @@
 # VidyoDaya
-**An Online Education Platform for You**
+**An Online Education Platform for You.**
 
 Check out the live demo: [VidyoDaya](https://vidyodayam.vercel.app/).
 
